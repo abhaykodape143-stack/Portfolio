@@ -1,0 +1,48 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+
+}
+section{
+}
+.word{
+    text-align:left;
+    padding: 10px;
+}
+.heading{
+    text-align: right;
+    text-decoration:none;
+    
+
+}
+ul{
+  list-style: none;
+    display: flex;
+    gap: 20px;
+    position: absolute;
+     right: 80px;
+     top: 20px ;
+}
+ul li a{
+    text-decoration: none;
+    margin: 10px;
+     color: black;
+     
+}
+.btn{
+    margin-left: 97%;
+    position: relative;
+    top: 2%;
+    height: 30px;
+    width: 50px;
+    border-radius: 2rem;
+}
+p{
+    font-size: 25px;
+    font-style: italic;
+}
+.Container{
+    margin-top: 10%;
+    margin-left: 10%;
+}
